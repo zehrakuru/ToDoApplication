@@ -1,9 +1,14 @@
 # ToDoApplication
 Ekranların görüntüsü aşağıda eklenmiştir.
 
-![Screenshot_1690496255](https://github.com/zehrakuru/ToDoApplication/assets/74616481/5358a90b-9d72-4393-b82c-63ad8335615f)
+| Cat pics               | Dog pics               |
+| ---------------------- | ---------------------- |
+| ![Screenshot_1690496255](https://github.com/zehrakuru/ToDoApplication/assets/74616481/5358a90b-9d72-4393-b82c-63ad8335615f) | ![Screenshot_1690496284](https://github.com/zehrakuru/ToDoApplication/assets/74616481/57c28f8b-fd7a-47ac-9cb1-997e24f16742) |
 
-![Screenshot_1690496284](https://github.com/zehrakuru/ToDoApplication/assets/74616481/57c28f8b-fd7a-47ac-9cb1-997e24f16742)
+
+
+
+
 
 ![Screenshot_1690496304](https://github.com/zehrakuru/ToDoApplication/assets/74616481/f508464a-36e6-47fc-8e0b-18cee210c017)
 
